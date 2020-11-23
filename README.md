@@ -16,3 +16,5 @@ I put the code here to share it with my classmates conveniently.
 将第二步得到的矩形进行限制。
 第一可以限制其大小，因为窗户的大小在图中是有范围的；第二可以限制其内容，如果矩形内是墙，则舍弃该矩形。
 将符合条件的矩形画出来，即可得到较少的，肉眼能区分的矩形。
+
+我自己的想法只能到这一步，如果有更好的做法，请诸位不吝赐教！(e-mail: xzh071888@yahoo.com)
